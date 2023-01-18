@@ -1,0 +1,3 @@
+Використані датасети:
+https://www.kaggle.com/datasets/puneet6060/intel-image-classification?resource=download
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
